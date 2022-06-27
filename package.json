@@ -1,6 +1,6 @@
 {
   "name": "fedex-rates",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fedex Rates",
   "main": "./lib/fedex.js",
   "keywords": [
