@@ -1,13 +1,13 @@
 ## Install
 
 ```sh
-npm install rates-fedex
+npm install fedex-rates
 ```
 
 ## Usage
 
 ```node
-const fedex = require('rates-fedex');
+const fedex = require('fedex-rates');
 
 const credentials = {
   key: '',
